@@ -2,7 +2,7 @@
 This is simple POC showing the implementation and usage of BDD Framework in Cypress.
 
 1) Use following command to clone the whole project into your workspace.
-   git clone -b master https://github.com/SachinWankhade67369/CYPRESS-BDD-TEST.git
+   > git clone -b master https://github.com/SachinWankhade67369/CYPRESS-BDD-TEST.git
 
 2) open new terminal in VS Code in your system and go to project root.
 
